@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Mohamed Younes KASMI",
+    "label": "Software engineering Student",
+    "picture": "",
+    "email": "kmyounes@protonmail.com",
+    "phone": "(213) 558 56 40 38",
+    "website": "https://kmyblog.com",
+    "summary": "Software Engineer student, passionate about programming languages and operating systems with a vocation for open source tools.",
+    "location": {
+      "city": "Algiers",
+      "countryCode": "DZ",
+      "region": "Algeria"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "kmyounes",
+        "url": "https://twitter.com/kmyounes"
+      },
+      {
+        "network": "Stackshare",
+        "username": "kmyounes",
+        "url": "https://stackshare.io/kmyounes"
+      },
+      {
+        "network": "Github",
+        "username": "kmyounes",
+        "url": "https://github.com/kmyounes"
+      }
+
+    ]
+  },
+  "work": [
+    {
+      "company": "T&D",
+      "position": "Intern",
+      "website": "http://www.tnd.dz",
+      "startDate": "2017-06-06",
+      "endtDate": "2017-08-01",
+      "summary": "Summer internship for taking an overview about OpenStack cloud platform, and studying backup possibilities",
+      "highlights": [
+        "Discovering the OpenStanck Cloud Platform",
+        "Taking an overview of storage methods",
+        "Backup and restore VMs"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "OpenMindsClub",
+      "website": "http://openmindsclub.net",
+      "startDate": "2015-03-15",
+      "endDate": "2018-01-01",
+      "summary": "Scientific University club that aims to share OpenSource philosophy",
+      "highlights": [
+        "Prepared Many events"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Houari Boumedien",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2015-09-09",
+      "endDate": "2018-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linux",
+      "level": "Advanced",
+      "keywords": [
+        "archlinux",
+        "Centos",
+        "Ubuntu",
+        "Debian",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Sysadmin",
+      "level": "intermediate",
+      "keywords":[
+        "docker",
+        "openstack",
+        "ansible",
+        "vagrant"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "intermediate",
+      "keywords":[
+        "python",
+        "C",
+        "Java",
+        "qt"
+
+      ]
+    },
+    {
+      "name": "HelpDesk",
+      "level": "Beginner",
+      "keywords": [
+        "tmate",
+        "ssh"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "beginner",
+      "keywords":[
+                  "travis-ci",
+                  "gitlab-ci",
+                  "jenkins"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency" : "Fluent (writing and speaking)"
+    },
+    {
+      "language": "English",
+      "fluency": "work level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Science",
+      "keywords": [
+        "Astronomy",
+        "physics"
+      ]
+    },
+    {
+      "name": "Sport",
+      "keywords": [
+        "GYM",
+        "Mechanical sports"
+      ]
+    }
+  ]
+}
